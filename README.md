@@ -1,3 +1,5 @@
+## This project will be archived as of 11/01/2026
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/nolabs-ai/nono-ts/main/assets/nono-ts.png" alt="nono-ts" width="500">
 </p>
