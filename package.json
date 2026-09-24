@@ -40,13 +40,13 @@
     "version": "napi version"
   },
   "devDependencies": {
-    "@biomejs/biome": "2.5.3",
+    "@biomejs/biome": "2.5.14",
     "@emnapi/core": "^1.10.0",
     "@emnapi/runtime": "^1.10.0",
     "@napi-rs/cli": "^3.0.0-alpha.63",
     "@types/node": "^26.1.1",
     "typescript": "^7.0.2",
-    "vitest": "^4.1.7"
+    "vitest": "^5.0.1"
   },
   "engines": {
     "node": ">= 22"
